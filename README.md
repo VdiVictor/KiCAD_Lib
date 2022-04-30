@@ -25,7 +25,7 @@ The footprint folder is subdivised according to the type of package:
 * 04_Oscillators
 
 ## Gitignore
-The only ignored folder is the 3D_Models one because it is too heavy for github (IMO).
+Nothing is ignored for now
 
 ## License
 This repo is under the GPL v3 license and can be used under its conditions.
