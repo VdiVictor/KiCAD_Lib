@@ -6,7 +6,7 @@
     (property "Value" "GNSS_GPS6MV2" (id 1) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "09_Modules:GNSS_GPS6MV2" (id 2) (at 0 12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
@@ -28,6 +28,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Price_1k" "" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "GNSS Module using the NEO-6M from Ublox" (id 10) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "GNSS_GPS6MV2_0_1"
