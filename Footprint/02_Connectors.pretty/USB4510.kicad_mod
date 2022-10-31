@@ -15,9 +15,11 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5b96c1ad-46ba-4366-8241-fbc1cd0e9bbd)
   )
+  (fp_line (start -5.62 7.3) (end -4.62 7.3) (layer "Edge.Cuts") (width 0.1) (tstamp 1b63794d-b9d8-493e-b135-17345c33d6c6))
   (fp_line (start -4.62 0.55) (end -4.62 7.3) (layer "Edge.Cuts") (width 0.1) (tstamp 4dfbe524-132d-43d4-8ae0-9aa2f72df70b))
   (fp_line (start 4.62 0.55) (end 4.62 7.3) (layer "Edge.Cuts") (width 0.1) (tstamp 58728297-c362-4c70-a751-4d60ffa81b1a))
   (fp_line (start -3.82 0.55) (end 3.82 0.55) (layer "Edge.Cuts") (width 0.1) (tstamp d35d7027-ac1b-44b2-9664-3d8a37ee0f4e))
+  (fp_line (start 4.62 7.3) (end 5.62 7.3) (layer "Edge.Cuts") (width 0.1) (tstamp f8a089c0-0f8d-43d0-bbfe-7e069ebd3ab2))
   (fp_arc (start -4.62 0.55) (mid -4.22 0.15) (end -3.82 0.55) (layer "Edge.Cuts") (width 0.1) (tstamp 051d4750-b73a-474f-abf5-a58dadb01c92))
   (fp_arc (start 3.82 0.55) (mid 4.22 0.15) (end 4.62 0.55) (layer "Edge.Cuts") (width 0.1) (tstamp cf672f56-2d68-4c6c-a783-23e23c937b72))
   (fp_line (start -6.25 -0.75) (end -6.25 7.5) (layer "F.CrtYd") (width 0.05) (tstamp 252f5480-3e74-4d8d-a6fc-57f8c5020707))
@@ -47,6 +49,11 @@
   (pad "B7" smd rect (at -0.75 0) (size 0.3 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f3628265-0155-43e2-a467-c40ff783e265))
   (pad "B8" smd rect (at -1.75 0) (size 0.3 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b1ddb058-f7b2-429c-9489-f4e2242ad7e5))
   (model "C:/Users/Lenovo/Documents/KiCad/Library/3D_Models/Connectors/USB4510-03-1-A.stp"
+    (offset (xyz 0 -7.2 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+  (model "${CUSTOM_3D}/Connectors/USB4510-03-1-A.stp"
     (offset (xyz 0 -7.2 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
