@@ -79,7 +79,7 @@
     )
   )
   (symbol "ESD_2Ch_82400102" (in_bom yes) (on_board yes)
-    (property "Reference" "D" (id 0) (at 7.62 2.54 0)
+    (property "Reference" "TVS" (id 0) (at 7.62 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ESD_2Ch_82400102" (id 1) (at 7.62 -12.7 0)
