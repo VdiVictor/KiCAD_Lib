@@ -371,11 +371,11 @@
       )
     )
   )
-  (symbol "LED_0603_YELLOW/GREEN" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "LED_0603_YELLOW-GREEN" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "LED" (id 0) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED_0603_YELLOW/GREEN" (id 1) (at 0 -2.54 0)
+    (property "Value" "LED_0603_YELLOW-GREEN" (id 1) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "01_Passives:LED_0603" (id 2) (at -1.27 22.86 0)
@@ -411,7 +411,7 @@
     (property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*" (id 12) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LED_0603_YELLOW/GREEN_0_1"
+    (symbol "LED_0603_YELLOW-GREEN_0_1"
       (polyline
         (pts
           (xy -1.27 -1.27)
@@ -453,7 +453,7 @@
         (fill (type none))
       )
     )
-    (symbol "LED_0603_YELLOW/GREEN_1_1"
+    (symbol "LED_0603_YELLOW-GREEN_1_1"
       (pin passive line (at -3.81 0 0) (length 2.54)
         (name "K" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
