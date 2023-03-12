@@ -1271,7 +1271,7 @@
         (alternate "UCPD1_FRSTX2" bidirectional line)
         (alternate "USART2_TX" bidirectional line)
       )
-      (pin power_in line (at -1.905 -45.72 90) (length 2.54)
+      (pin power_in line (at -2.54 -45.72 90) (length 2.54)
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "15" (effects (font (size 1.27 1.27))))
       )
@@ -1499,7 +1499,7 @@
         (alternate "TIM2_CH3" bidirectional line)
         (alternate "USART3_TX" bidirectional line)
       )
-      (pin passive line (at -1.905 -45.72 90) (length 2.54) hide
+      (pin passive line (at -2.54 -45.72 90) (length 2.54) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "31" (effects (font (size 1.27 1.27))))
       )
@@ -1747,7 +1747,7 @@
         (alternate "USART1_RTS" bidirectional line)
         (alternate "USB_DP" bidirectional line)
       )
-      (pin passive line (at -1.905 -45.72 90) (length 2.54) hide
+      (pin passive line (at -2.54 -45.72 90) (length 2.54) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "47" (effects (font (size 1.27 1.27))))
       )
@@ -1994,7 +1994,7 @@
         (alternate "TIM8_CH3" bidirectional line)
         (alternate "USART3_TX" bidirectional line)
       )
-      (pin passive line (at -1.905 -45.72 90) (length 2.54) hide
+      (pin passive line (at -2.54 -45.72 90) (length 2.54) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "63" (effects (font (size 1.27 1.27))))
       )
