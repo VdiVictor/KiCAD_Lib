@@ -356,7 +356,58 @@
       )
     )
   )
-  (symbol "CAP_0805_1uF_50V_1" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "CAP_0805_10uF_35V" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (property "Reference" "C" (at 2.54 0 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "CAP_0805_10uF_35V" (at 10.16 5.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "01_Passives:CAP_0805" (at 10.16 7.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Capacitance" "10µF" (at 2.54 -5.08 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Voltage" "35V" (at 2.54 -2.54 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "ki_description" "Ceramic SMD capacitor, 10µF, 35V, 10%, X5R" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "CAP_0805_10uF_35V_0_1"
+      (polyline
+        (pts
+          (xy -1.524 -3.1496)
+          (xy 1.524 -3.1496)
+        )
+        (stroke (width 0.3302) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.524 -1.9304)
+          (xy 1.524 -1.9304)
+        )
+        (stroke (width 0.3048) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "CAP_0805_10uF_35V_1_1"
+      (pin passive line (at 0 0 270) (length 1.8542)
+        (name "~" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at 0 -5.08 90) (length 1.8542)
+        (name "~" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "CAP_0805_1uF_50V" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "C" (at 2.54 0 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -378,7 +429,7 @@
     (property "ki_description" "Ceramic SMD capacitor, 1µF, 50V, 10%, X7R" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "CAP_0805_1uF_50V_1_0_1"
+    (symbol "CAP_0805_1uF_50V_0_1"
       (polyline
         (pts
           (xy -1.524 -3.1496)
@@ -396,7 +447,7 @@
         (fill (type none))
       )
     )
-    (symbol "CAP_0805_1uF_50V_1_1_1"
+    (symbol "CAP_0805_1uF_50V_1_1"
       (pin passive line (at 0 0 270) (length 1.8542)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
