@@ -420,7 +420,7 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Capacitance" "1uF" (at 2.54 -5.08 0)
+    (property "Capacitance" "1µF" (at 2.54 -5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Voltage" "50V" (at 2.54 -2.54 0)
