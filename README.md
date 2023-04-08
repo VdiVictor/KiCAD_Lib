@@ -13,6 +13,10 @@ The schematics folder is subdivised in several categories. The sorting is done b
 * 07_Connectors
 * 08_Crystal
 * 09_Memory
+* 10_LED
+* 74_SN74
+* 90_Modules
+* 98_TestPoints
 * 99_Misc
 
 The number allow for a better sorting of the libraries.
@@ -23,6 +27,8 @@ The footprint folder is subdivised according to the type of package:
 * 02_Connectors
 * 03_ICs
 * 04_Oscillators
+* 09_Modules
+* 98_TestPoints
 
 ## Gitignore
 Nothing is ignored for now

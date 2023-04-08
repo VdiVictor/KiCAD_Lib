@@ -6,7 +6,7 @@
     (property "Value" "TP_1mm" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "98_TestPoints:TestPoint_Pad_D1.0mm" (at 0 13.97 0)
+    (property "Footprint" "98_TestPoints:TestPoint_Pad_D2.0mm" (at 0 13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 5.08 0 0)
