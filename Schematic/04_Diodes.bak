@@ -164,7 +164,7 @@
     (property "Value" "SBRT5A50SAF" (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "01_Passives:DIO_SMA" (at 0 24.13 0)
+    (property "Footprint" "" (at 0 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/SBRT5A50SAF.pdf" (at 0 26.67 0)
