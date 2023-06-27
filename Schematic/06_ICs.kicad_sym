@@ -6,7 +6,7 @@
     (property "Value" "AD9953YSVZ" (at -24.13 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "03_ICs:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm" (at 0 52.07 0)
+    (property "Footprint" "03_ICs:TQFP-48-1EP_7x7mm_P0.5mm_EP4x4mm" (at 0 52.07 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/AD9953.pdf" (at 0 54.61 0)
